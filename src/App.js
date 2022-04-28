@@ -278,6 +278,7 @@ export default class App extends Component {
       result: 0,
       display: answer,
       evaluated: true,
+      dot: false,
     });
   };
 
